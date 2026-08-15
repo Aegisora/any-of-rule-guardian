@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1648587867">
-  <project timestamp="1648587867">
-    <metrics files="0" loc="0" ncloc="0" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+<coverage generated="1786798825">
+  <project timestamp="1786798825">
+    <file name="/home/runner/work/any-of-rule-guardian/any-of-rule-guardian/src/AnyOfRuleGuardian.php">
+      <class name="Aegisora\RuleGuardians\AnyOfRule\AnyOfRuleGuardian" namespace="global">
+        <metrics complexity="7" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="22" coveredelements="22"/>
+      </class>
+      <line num="20" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="25"/>
+      <line num="23" type="stmt" count="25"/>
+      <line num="35" type="method" name="check" visibility="public" complexity="6" crap="6" count="25"/>
+      <line num="37" type="stmt" count="25"/>
+      <line num="38" type="stmt" count="25"/>
+      <line num="39" type="stmt" count="25"/>
+      <line num="41" type="stmt" count="25"/>
+      <line num="42" type="stmt" count="24"/>
+      <line num="43" type="stmt" count="6"/>
+      <line num="44" type="stmt" count="3"/>
+      <line num="47" type="stmt" count="3"/>
+      <line num="49" type="stmt" count="3"/>
+      <line num="52" type="stmt" count="21"/>
+      <line num="53" type="stmt" count="12"/>
+      <line num="56" type="stmt" count="9"/>
+      <line num="59" type="stmt" count="10"/>
+      <line num="60" type="stmt" count="2"/>
+      <line num="63" type="stmt" count="8"/>
+      <line num="64" type="stmt" count="8"/>
+      <line num="65" type="stmt" count="8"/>
+      <line num="66" type="stmt" count="8"/>
+      <line num="67" type="stmt" count="8"/>
+      <metrics loc="70" ncloc="61" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="22" coveredelements="22"/>
+    </file>
+    <file name="/home/runner/work/any-of-rule-guardian/any-of-rule-guardian/src/Exceptions/AnyOfRuleGuardianException.php">
+      <class name="Aegisora\RuleGuardians\AnyOfRule\Exceptions\AnyOfRuleGuardianException" namespace="global">
+        <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </class>
+      <metrics loc="10" ncloc="10" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/home/runner/work/any-of-rule-guardian/any-of-rule-guardian/src/Exceptions/ExceptionMustBeLastException.php">
+      <class name="Aegisora\RuleGuardians\AnyOfRule\Exceptions\ExceptionMustBeLastException" namespace="global">
+        <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </class>
+      <metrics loc="8" ncloc="8" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/home/runner/work/any-of-rule-guardian/any-of-rule-guardian/src/Exceptions/MissingRuleContextException.php">
+      <class name="Aegisora\RuleGuardians\AnyOfRule\Exceptions\MissingRuleContextException" namespace="global">
+        <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </class>
+      <metrics loc="8" ncloc="8" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/home/runner/work/any-of-rule-guardian/any-of-rule-guardian/src/Exceptions/UnexpectedArgumentException.php">
+      <class name="Aegisora\RuleGuardians\AnyOfRule\Exceptions\UnexpectedArgumentException" namespace="global">
+        <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </class>
+      <metrics loc="8" ncloc="8" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <metrics files="5" loc="104" ncloc="95" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="22" coveredelements="22"/>
   </project>
 </coverage>
