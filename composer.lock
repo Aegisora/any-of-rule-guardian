@@ -127,16 +127,16 @@
         },
         {
             "name": "aegisora/rule-contract",
-            "version": "v1.1.0",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Aegisora/rule-contract.git",
-                "reference": "f4c6b82dd85ca6dfc2dc70027551db1078907558"
+                "reference": "ce959e39cc25ee7fdba7f4f1498ea11315e5843b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Aegisora/rule-contract/zipball/f4c6b82dd85ca6dfc2dc70027551db1078907558",
-                "reference": "f4c6b82dd85ca6dfc2dc70027551db1078907558",
+                "url": "https://api.github.com/repos/Aegisora/rule-contract/zipball/ce959e39cc25ee7fdba7f4f1498ea11315e5843b",
+                "reference": "ce959e39cc25ee7fdba7f4f1498ea11315e5843b",
                 "shasum": ""
             },
             "require": {
@@ -178,7 +178,7 @@
                 "issues": "https://github.com/Aegisora/rule-contract/issues",
                 "source": "https://github.com/Aegisora/rule-contract"
             },
-            "time": "2026-08-14T14:08:03+00:00"
+            "time": "2026-08-15T12:33:13+00:00"
         }
     ],
     "packages-dev": [
