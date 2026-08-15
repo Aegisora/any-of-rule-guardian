@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Aegisora\\<PACKAGE>\\": "src/"
+            "Aegisora\\RuleGuardians\\AnyOfRule\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Aegisora\\<PACKAGE>\\Tests\\": "tests/"
+            "Aegisora\\RuleGuardians\\AnyOfRule\\Tests\\": "tests/"
         }
     },
     "config": {
