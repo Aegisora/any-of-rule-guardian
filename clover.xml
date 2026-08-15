@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1786798825">
-  <project timestamp="1786798825">
+<coverage generated="1786799213">
+  <project timestamp="1786799213">
     <file name="/home/runner/work/any-of-rule-guardian/any-of-rule-guardian/src/AnyOfRuleGuardian.php">
       <class name="Aegisora\RuleGuardians\AnyOfRule\AnyOfRuleGuardian" namespace="global">
         <metrics complexity="7" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="22" coveredelements="22"/>
