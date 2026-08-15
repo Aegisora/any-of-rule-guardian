@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bc69777b5d5946475189319133d69832",
+    "content-hash": "6af97458e514ccbefdbfdc8008833014",
     "packages": [
         {
             "name": "aegisora/any-of-rule",
