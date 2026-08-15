@@ -1,8 +1,19 @@
 {
     "name": "aegisora/any-of-rule-guardian",
-    "description": "<REPOSITORY_DESCRIPTION>",
+    "description": "Any Of Rule Guardian provides a simple shortcut for any-of validation using aegisora/guardian and aegisora/any-of-rule.",
     "type": "library",
-    "keywords": ["php", "aegisora", "aegisora-ecosystem"],
+    "keywords": [
+        "php",
+        "aegisora",
+        "aegisora-ecosystem",
+        "validation",
+        "guardian",
+        "any-of",
+        "any-of-check",
+        "any-of-rule",
+        "rule",
+        "rule-guardian"
+    ],
     "homepage": "https://github.com/Aegisora/any-of-rule-guardian",
     "support": {
         "issues": "https://github.com/Aegisora/any-of-rule-guardian/issues",
